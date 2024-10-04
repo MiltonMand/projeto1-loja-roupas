@@ -1,0 +1,17 @@
+footer {
+    background-color: rgba(255, 166, 0, 0.594);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+footer img {
+    width: 45px;
+    border-radius: 50%;
+}
+
+footer div {
+    margin: 5px;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+header {
+    background: linear-gradient(to left, #bb65038a, #f50707a8) ;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+header h1 {
+    font-size: 3.4em;
+    padding-top: 40px;
+}
